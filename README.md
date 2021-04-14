@@ -21,8 +21,8 @@
 
 <br />
 
-<div align="center"><strong>Implement a 404 page</strong></div>
-<div align="center">Send emails to your customers with MailJet</div>
+<div align="center"><strong>Add drag'n drop to your React app</strong></div>
+<div align="center">Use drag and drop with react-dnd package</div>
 
 <br />
 
